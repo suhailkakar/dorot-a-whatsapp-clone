@@ -27,6 +27,7 @@
    npm install
    ```
    or 
+   
      ```sh
    yarn install
    ```
@@ -35,7 +36,6 @@
    npm run dev
    ```
 
-<!-- CONTRIBUTING -->
 ### Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -48,3 +48,7 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Dorot is open source software licensed under the MIT License
+
+### Contributor
+
+* [Suhail Kakar](https://suhailkakar.com)
