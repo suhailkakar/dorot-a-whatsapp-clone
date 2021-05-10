@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Whatsapp 2.0</title>
+        <title>Whatsapp | Suhail Kakar</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
