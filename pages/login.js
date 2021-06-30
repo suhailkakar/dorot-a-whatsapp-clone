@@ -15,7 +15,7 @@ function Login() {
       <Head>
         <title>Login</title>
       </Head>
-        <Button onClick={signIn} variant="outlined">Sign in with Google</Button>
+        <Button onClick={signIn} variant="outlined">Sign in with your Google Account</Button>
     </Container>
   )
 }
